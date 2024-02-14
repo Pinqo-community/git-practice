@@ -6,9 +6,6 @@ This repository is a place to practice Git with confidence
 
 - Setup your ssh key on local
 
-```bash
-```
-
 ## Usage
 
 
